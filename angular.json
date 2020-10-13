@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "adv-tests"
+    }
+  },
+  "defaultProject": "adv-tests",
+  "cli": {
+    "analytics": false
+  }
 }
